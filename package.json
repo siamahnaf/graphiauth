@@ -11,6 +11,9 @@
     "News",
     "codecaynon"
   ],
+  "engines": {
+    "node": "14.0.0"
+  },
   "author": "Siam Ahnaf",
   "license": "ISC",
   "dependencies": {
